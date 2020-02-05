@@ -10,4 +10,4 @@ If you want to use make. You have to download the g++. Then, put make to you CPP
 make 是一个 Linux 工具。它可以快速编译你的 c 语言或 c++ 语言的文件。
 
 ## 如何使用 make
-如果你想使用 make ，请先下载 g++ 。然后将 make 放到你要编译的文件的目录下。然后在终端中输入 "./make" 。将你的文件名输入进去。运行结果将会显示与终端。
+如果你想使用 make ，请先下载 g++ 。然后将 make 放到你要编译的文件的目录下。然后在终端中输入 "./make" 。将你的文件名输入进去。运行结果将会显示于终端。
